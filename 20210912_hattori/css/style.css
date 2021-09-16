@@ -310,12 +310,12 @@ table th {
   background-color: #dedede;
 }
 .recruit {
-  margin-top: 50px;
-  width: 100%;
-  height: auto;
+  width: max-content;
   display: flex;
+  text-align: center;
   justify-content: center;
   position: relative;
+  margin: 0 auto;
 }
 .recruit__img img,.interview__img img {
   text-align: center;
